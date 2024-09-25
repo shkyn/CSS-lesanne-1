@@ -1,0 +1,65 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+
+.suur{
+    font-size: 40px;
+    font-weight: bold;
+    color: bisque;
+}
+.alamtekst{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: rgb(136, 136, 119);
+    text-decoration: underline;
+}
+.taustakast{
+    background-color: #0264e4;
+    color: white;padding: 10px;
+}
+.taust2{
+    background-color: #d90000;
+    color: white;padding: 10px;
+}
+.taust3{
+    background-color: #00b42d;
+    color: white;padding: 10px;
+}
+.taust4{
+    background-color: #fb86ff;
+    color: white;
+    padding: 10px;
+}
+.taust5{
+    background-color: #eaff2a;
+    color: black;
+    padding: 10px;
+}
+img{
+    padding: 20px;
+    border: 5px solid #333;
+    border-radius: 15px;
+    width: 200px;
+    height: 400px;
+}
+button{
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.roheline{
+    background-color: #4caf50;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.roheline:hover{
+    background-color: #0f850f;
+}
